@@ -11,6 +11,9 @@
 #    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 #    See the License for the specific language governing permissions and
 #    limitations under the License.
+#
+#    Modified for ST-Pruner (WACV 2027) on top of the VisPruner version of this file:
+#    pre-LLM visual token pruning hook (see lines marked [ST-Pruner]).
 
 
 from typing import List, Optional, Tuple, Union
