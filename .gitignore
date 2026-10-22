@@ -1,0 +1,24 @@
+# Data, checkpoints and outputs
+playground/
+checkpoints/
+models/
+cache_dir/
+results/
+*.jsonl
+
+# Secrets
+.env
+*.openai_key
+.openai_key
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp

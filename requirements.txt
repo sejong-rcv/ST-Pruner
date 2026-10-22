@@ -1,0 +1,17 @@
+# Install PyTorch first:
+#   pip install torch==2.1.2 torchvision==0.16.2 --index-url https://download.pytorch.org/whl/cu118
+transformers==4.37.2
+tokenizers==0.15.1
+sentencepiece==0.1.99
+accelerate==1.13.0
+einops==0.6.1
+einops-exts==0.0.4
+timm==0.6.13
+numpy==1.24.4
+pandas==1.5.3
+pillow
+protobuf==3.19.6
+shortuuid
+scikit-learn==1.2.2
+tqdm
+pyarrow          # scripts/prepare_mme_answers.py
