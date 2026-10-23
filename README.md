@@ -23,7 +23,7 @@
 - ST-Pruner is accepted to **WACV 2027**.
 - Code for LLaVA-1.5, LLaVA-NeXT and Video-LLaVA is released.
 
-## 👁️ Overview
+## 🔍 Overview
 
 <!-- Method figure (Figure 3 of the paper): put the image in assets/ and uncomment.
 <p align="center"><img src="assets/overview.png" width="95%"></p>
