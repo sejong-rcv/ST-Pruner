@@ -6,6 +6,7 @@
 
 <p align="center">
   <!-- Replace "#" with the paper link (CVF Open Access / arXiv) once available -->
+  <a href="https://arxiv.org/abs/2610.38303"><img src="https://img.shields.io/badge/Paper-Arxiv%202027-red"></a>
   <a href="#"><img src="https://img.shields.io/badge/Paper-WACV%202027-blue"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-green"></a>
 </p>
